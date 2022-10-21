@@ -2,7 +2,7 @@
     "id": "simbuls-template-scaling",
     "name": "simbuls-template-scaling",
     "title": "Simbul's Template Scaling",
-    "description": "A module that handles Legendary Actions, Lair Actions and Ability Recharges for DnD5e. Originally part of DnD 5e Helpers, split out for v10.",
+    "description": "A module that handles that scales templates to better fit the 5/5/5 diagonal rule.",
     "version": "1.0.0",
     "authors": [
       {
