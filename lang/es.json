@@ -1,0 +1,11 @@
+{
+    "setting.debug.name": "Extended debug output",
+    "setting.debug.hint": "Logs additional debugging information to the console.",
+
+    "setting.gridTemplateScaling.name": "Auto ajustar plantillas a la cuadrícula de 5e",
+    "setting.gridTemplateScaling.hint":"Se ajustará la longitud de líneas y conos. Los círculos serán convertidos a un rectángulo de área equivalente. La intención es armonizar la distancia de la cuadrícula de 5e a la hora de calcular distancias diagonales en las plantillas.",
+    "option.gridTemplateScaling.none":"Ningún escalado de plantillas",
+    "option.gridTemplateScaling.lineCone":"Líneas y conos",
+    "option.gridTemplateScaling.circle":"Círculos",
+    "option.gridTemplateScaling.all":"Todas las plantillas"
+}

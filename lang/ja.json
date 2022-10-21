@@ -1,0 +1,11 @@
+{
+    "setting.debug.name": "Extended debug output",
+    "setting.debug.hint": "Logs additional debugging information to the console.",
+
+    "setting.gridTemplateScaling.name": "テンプレートを5eグリッドに自動調整",
+    "setting.gridTemplateScaling.hint":"線と円錐は距離がスケーリングされます。球形は同等の面積の矩形に変換されます。これはテンプレートの対角線を5eのグリッド距離測定に沿わせるものです。",
+    "option.gridTemplateScaling.none" : "スケーリング無効",
+    "option.gridTemplateScaling.lineCone" : "直線と円錐",
+    "option.gridTemplateScaling.circle" : "球形",
+    "option.gridTemplateScaling.all" : "すべてのテンプレート"
+}

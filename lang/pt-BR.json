@@ -1,0 +1,11 @@
+{
+    "setting.debug.name": "Extended debug output",
+    "setting.debug.hint": "Logs additional debugging information to the console.",
+
+    "setting.gridTemplateScaling.name": "Autoajustar modelos em grids da 5e",
+    "setting.gridTemplateScaling.hint":"Linhas e cones terão seu alcance ajustado. Círculos serão convertidos em um retângulo de área equivalente. Isso busca criar a correspondência de distância do grid da 5e quando medidas diagonais são envolvidas no posicionamento de modelos.",
+    "option.gridTemplateScaling.none":"Sem ajuste de modelos",
+    "option.gridTemplateScaling.lineCone":"Linhas e Cones",
+    "option.gridTemplateScaling.circle":"Círculos",
+    "option.gridTemplateScaling.all":"Todos os Modelos"
+}

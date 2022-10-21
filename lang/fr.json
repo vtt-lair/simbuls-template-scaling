@@ -1,0 +1,11 @@
+{
+    "setting.debug.name": "Extended debug output",
+    "setting.debug.hint": "Logs additional debugging information to the console.",
+
+    "setting.gridTemplateScaling.name": "Ajuster automatiquement les Templates sur la grille 5e",
+    "setting.gridTemplateScaling.hint":"Les lignes et les cônes auront leur longueur mise à l'échelle. Les cercles seront convertis en un rectangle de surface équivalente. Cela cherche à correspondre à la distance de grille 5e lorsque des mesures diagonales sont impliquées dans le placement du modèle.",
+    "option.gridTemplateScaling.none":"Pas de mise à l'échelle du modèle",
+    "option.gridTemplateScaling.lineCone":"Lignes et cones",
+    "option.gridTemplateScaling.circle":"Cercles",
+    "option.gridTemplateScaling.all":"Tous les modèles"
+}
