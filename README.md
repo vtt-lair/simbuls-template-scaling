@@ -9,6 +9,8 @@ A Foundry VTT module that scales templates to better fit the 5/5/5 diagonal rule
 - Line and cone scaling can be enabled independently from circle scaling.
   - Circle templates less than 1 grid unit in radius will not be converted. These small templates are often useful for creating quick token-like markers on the board or used for macros which need the centerpoint maintained.
 
+![Line](https://user-images.githubusercontent.com/33215552/197215752-2c8f5580-fb36-4fd7-ba0b-5e58d77491f9.gif)
 
+![Circle](https://user-images.githubusercontent.com/33215552/197215770-18c969b5-31cc-4951-a3aa-328cb74466d6.gif)
 
 Originally part of [DnD 5e Helpers](https://github.com/trioderegion/dnd5e-helpers)
