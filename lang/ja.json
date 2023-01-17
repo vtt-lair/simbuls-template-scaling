@@ -1,6 +1,6 @@
 {
-    "setting.debug.name": "Extended debug output",
-    "setting.debug.hint": "Logs additional debugging information to the console.",
+    "setting.debug.name": "拡張デバッグ出力",
+    "setting.debug.hint": "デバッグ情報をコンソールへより多く出力します。",
 
     "setting.gridTemplateScaling.name": "テンプレートを5eグリッドに自動調整",
     "setting.gridTemplateScaling.hint":"線と円錐は距離がスケーリングされます。球形は同等の面積の矩形に変換されます。これはテンプレートの対角線を5eのグリッド距離測定に沿わせるものです。",
