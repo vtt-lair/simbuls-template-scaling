@@ -61,6 +61,11 @@ export class TemplateScaling {
             return;
         }
 
+        let canModifyTemplate = templateDocument.canUserModify(game.user, "update") || templateDocument.canUserModify(game.user, "create");
+        if (!canModifyTemplate) {
+            return;
+        }
+
         const template = templateDocument;
         const scene = templateDocument.object.scene;
 
