@@ -1,8 +1,8 @@
-# v 1.3.0
+# v 1.1.0
 
 * Flag as v12 compatible
 
-# v 1.2.0
+# v 1.0.2
 
 * Update module to show as verified for 11
 
