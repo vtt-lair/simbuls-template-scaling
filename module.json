@@ -2,8 +2,8 @@
     "id": "simbuls-template-scaling",
     "name": "simbuls-template-scaling",
     "title": "Simbul's Template Scaling",
-    "description": "A module that handles that scales templates to better fit the 5/5/5 diagonal rule.",
-    "version": "1.0.0",
+    "description": "A module that scales templates to better fit the 5/5/5 diagonal rule.",
+    "version": "1.3.0",
     "authors": [
       {
         "name": "VTT Lair",
@@ -17,36 +17,12 @@
         "module.json"
     ],
     "languages": [
-      {
-        "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
-      },
-      {
-        "lang": "es",
-        "name": "Spanish",
-        "path": "lang/es.json"
-      },
-      {
-        "lang": "fr",
-        "name": "French",
-        "path": "lang/fr.json"
-      },
-      {
-        "lang": "pt-BR",
-        "name": "Brazilian Portugues",
-        "path": "lang/pt-BR.json"
-      },
-      {
-        "lang": "ko",
-        "name": "Korean",
-        "path": "lang/ko.json"
-      },
-      {
-        "lang": "ja",
-        "name": "日本語",
-        "path": "lang/ja.json"
-      }
+      { "lang": "en", "name": "English", "path": "lang/en.json" },
+      { "lang": "es", "name": "Spanish", "path": "lang/es.json" },
+      { "lang": "fr", "name": "French", "path": "lang/fr.json" },
+      { "lang": "pt-BR", "name": "Brazilian Portugues", "path": "lang/pt-BR.json" },
+      { "lang": "ko", "name": "Korean", "path": "lang/ko.json" },
+      { "lang": "ja", "name": "日本語", "path": "lang/ja.json" }
     ],
     "url": "https://github.com/vtt-lair/simbuls-template-scaling",
     "manifest": "https://github.com/vtt-lair/simbuls-template-scaling/releases/latest/download/module.json",
@@ -57,9 +33,9 @@
             {
                 "id": "dnd5e",
                 "type": "system",
-                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/2.0.2/system.json",
                 "compatibility": {
-                    "verified": "3.3.1"
+                    "minimum": "6.0.5",
+                    "verified": "6.0.5"
                 }
             }
         ],
@@ -68,13 +44,14 @@
                 "id": "simbuls-athenaeum",
                 "type": "module",
                 "compatibility": {
-                "verified": "1.1.0"
+                    "minimum": "1.3.0",
+                    "verified": "1.3.0"
                 }
             }
         ]
     },
     "compatibility": {
-        "minimum": "12",
-        "verified": "12"
+        "minimum": "14",
+        "verified": "14"
     }
 }
